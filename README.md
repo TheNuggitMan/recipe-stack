@@ -8,15 +8,13 @@ An idea I came up with to better understand the use of Constructor functions and
 
 To-Do
 ----
-
--[x] Build easy to use form
--[x] Get user input into constructor - tested all working
--[x] Populate page with HTML elements filled with the user input/constructor info
--[ ] Loop through ingredients and list each on with bullet points
--[ ] Add full CSS to make it look tasty
--[ ] Allow upload of photo (of the meal) have it sit in the recipe card
--[ ] Eventually add to a SQL Database
-
+- [x] Build easy to use form
+- [x] Get user input into constructor - tested all working
+- [x] Populate page with HTML elements filled with the user input/constructor info
+- [ ] Loop through ingredients and list each on with bullet points
+- [ ] Add full CSS to make it look tasty
+- [ ] Allow upload of photo (of the meal) have it sit in the recipe card
+- [ ] Eventually add to a SQL Database
 
 Languages
 ---
