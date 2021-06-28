@@ -1,0 +1,12 @@
+#container {
+    text-align: center;
+    width: 90vw;
+    border: 2px solid grey;
+    margin-bottom: 3rem;
+}
+
+@media screen and (min-width: 1000px) {
+    #container {
+        width: 50vw;
+    }
+}
