@@ -8,6 +8,7 @@ An idea I came up with to better understand the use of Constructor functions and
 
 To-Do
 ----
+
 -[x] Build easy to use form
 -[x] Get user input into constructor - tested all working
 -[x] Populate page with HTML elements filled with the user input/constructor info
